@@ -1,9 +1,8 @@
 === WP Gravity Forms Constant Contact Plugin ===
 Contributors: crmperks, sbazzi, asif876
-Tags: Gravity Forms, Gravity Forms Constant Contact, gravity forms and constant contact, Constant Contact, 	
-gravity forms constant contact addon
+Tags: Gravity Forms, Gravity Forms Constant Contact, gravity forms and constant contact, Constant Contact, gravity forms constant contact addon
 Requires at least: 3.8
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.0
 Version: 1.1.0
 Requires PHP: 5.3
